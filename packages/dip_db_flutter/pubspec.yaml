@@ -1,0 +1,19 @@
+name: dip_db_flutter
+description: Modular, fast, progressive database for Dart and Flutter.
+version: 0.0.1-alpha
+homepage: https://github.com/dipdev-studio/dip_db
+repository: https://github.com/dipdev-studio/dip_db
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+#flutter:

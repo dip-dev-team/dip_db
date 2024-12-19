@@ -5,7 +5,8 @@ homepage: https://github.com/dipdev-studio/dip_db
 repository: https://github.com/dipdev-studio/dip_db
 
 environment:
-  sdk: ">=3.2.3 <4.0.0"
+  sdk: ^3.6.0
+resolution: workspace
 
 #dependencies:
 
